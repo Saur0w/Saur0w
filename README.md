@@ -4,7 +4,7 @@ Computer Science undergraduate with a strong focus on Data Structures & Algorith
 Currently building and experimenting with real-world projects.  
 I enjoy writing clean, logical code and understanding how systems work under the hood.
 
-Consistency > motivation. Learning one concept at a time.
+Art >> Engineering 
 
 ## Tech Stack
 
