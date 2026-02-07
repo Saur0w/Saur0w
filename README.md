@@ -1,3 +1,33 @@
-Hi, I'm Saurow (Saurabh Thapliyal) — 22-year-old creative developer from India crafting web experiences with Next.js, TypeScript, and GSAP animations.
+## About Me
 
-Web dev blending art × code — Next.js, TypeScript, GSAP, and scroll magic; building award‑style UI with performance in mind.
+Computer Science undergraduate with a strong focus on Data Structures & Algorithms and core CS fundamentals.  
+Currently preparing for GATE while building and experimenting with real-world projects.  
+I enjoy writing clean, logical code and understanding how systems work under the hood.
+
+Consistency > motivation. Learning one concept at a time.
+
+## Tech Stack
+
+**Languages**
+- C++
+- JavaScript
+- TypeScript
+
+**Frontend**
+- React
+- Next.js
+- Tailwind CSS
+- GSAP (animations)
+
+
+**Tools & Platforms**
+- Git & GitHub
+- VS Code
+- Linux (basics)
+
+**Core CS**
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Time & Space Complexity
+- Operating Systems (learning)
+- Computer Networks (learning)
