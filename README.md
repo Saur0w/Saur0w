@@ -16,13 +16,14 @@ Consistency > motivation. Learning one concept at a time.
 **Frontend**
 - React
 - Next.js
+- SCSS
 - Tailwind CSS
 - GSAP (animations)
 
 
 **Tools & Platforms**
 - Git & GitHub
-- VS Code
+- Web Storm
 - Linux (basics)
 
 **Core CS**
