@@ -12,6 +12,7 @@ Art >> Engineering
 - C++
 - JavaScript
 - TypeScript
+- Rust (learning)
 
 **Frontend**
 - React
