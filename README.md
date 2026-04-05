@@ -12,11 +12,13 @@ Art >> Engineering
 - C++
 - JavaScript
 - TypeScript
+- GLSL
 - Rust (learning)
 
 **Frontend**
 - React
 - Next.js
+- Three.js
 - SCSS
 - Tailwind CSS
 - GSAP (animations)
