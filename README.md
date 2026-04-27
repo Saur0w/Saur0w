@@ -14,6 +14,7 @@ Art >> Engineering
 - TypeScript
 - GLSL
 - Rust (learning)
+- Python (learning)
 
 **Frontend**
 - React
@@ -22,6 +23,7 @@ Art >> Engineering
 - SCSS
 - Tailwind CSS
 - GSAP (animations)
+- Framer (animations)
 
 
 **Tools & Platforms**
