@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=160&section=header" />
 
-# hey, I'm [your name] &nbsp;👾
+# hey, I'm Saurabh Thapliyal &nbsp;👾
 
 **Motion Designer · Web Developer · Graphics Programmer**
 
@@ -22,7 +22,7 @@ Web dev by trade. Motion designer at heart. Currently going down the rabbit hole
 
 <br/>
 
-### 🎨 &nbsp;Languages
+### &nbsp;Languages
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cpp,js,ts,rust,python&theme=dark&perline=5" />
@@ -40,7 +40,7 @@ Web dev by trade. Motion designer at heart. Currently going down the rabbit hole
 
 ---
 
-### 🌐 &nbsp;Frontend & Creative Code
+### &nbsp;Frontend & Creative Code
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,scss,tailwind&theme=dark&perline=5" />
@@ -49,16 +49,16 @@ Web dev by trade. Motion designer at heart. Currently going down the rabbit hole
 <br/>
 
 <div align="center">
-
-`GSAP` &nbsp;&nbsp; `Framer Motion`
-
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
 </div>
 
 <br/>
 
 ---
 
-### 🔬 &nbsp;Graphics & Shaders
+### &nbsp;Graphics & Shaders
 
 <div align="center">
 
@@ -75,7 +75,7 @@ Web dev by trade. Motion designer at heart. Currently going down the rabbit hole
 
 ---
 
-### 🛠 &nbsp;Tools
+### &nbsp;Tools
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,github,linux,webstorm&theme=dark&perline=4" />
@@ -85,7 +85,7 @@ Web dev by trade. Motion designer at heart. Currently going down the rabbit hole
 
 ---
 
-### 📚 &nbsp;Core CS
+### &nbsp;Core CS
 
 <div align="center">
 
