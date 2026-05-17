@@ -4,7 +4,7 @@
 
 # hey, I'm Saurabh Thapliyal &nbsp;👾
 
-**Motion Designer · Web Developer · Graphics Programmer**
+**Motion Designer · Web Developer · Web Designer · Graphics Programmer**
 
 *Art >> Engineering*
 
