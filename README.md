@@ -1,105 +1,91 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=160&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=170&section=header"/>
 
-# hey, I'm Saurabh Thapliyal &nbsp;👾
+# Hey, I'm Saurabh Thapliyal 👾
 
-**Motion Designer · Web Developer · Web Designer · Graphics Programmer**
+### Creative Developer from India
 
-*Art >> Engineering*
+Building interactive experiences where **design, motion and code** meet.
 
-<br/>
+*"Art > Engineering."*
 
 </div>
 
 ---
 
-### &nbsp;⟡ &nbsp;I build things that move, render, and feel alive.
+## About
 
-Web dev by trade. Motion designer at heart. Currently going down the rabbit hole of **real-time graphics** — shaders, GPU pipelines, and the math that makes pixels do interesting things.
+I create immersive digital experiences with modern web technologies, combining thoughtful design, smooth motion, and real-time graphics.
 
----
+Lately I've been obsessed with graphics programming—writing shaders, learning GPU rendering, and understanding how pixels become experiences.
 
-<br/>
-
-### &nbsp;Languages
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,js,ts,rust,python&theme=dark&perline=5" />
-</div>
-
-<br/>
-
-<div align="center">
-
-`GLSL` &nbsp;&nbsp; `HLSL` &nbsp;&nbsp; `CUDA`
-
-</div>
-
-<br/>
+Outside of graphics, I build performant frontends with animation-heavy interactions inspired by the work seen on Awwwards.
 
 ---
 
-### &nbsp;Frontend & Creative Code
+## Creative Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,threejs,scss,tailwind&theme=dark&perline=5" />
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,threejs,ts,js,cpp,rust,python,scss,git,github,linux&theme=dark"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black"/>
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebGL-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GLSL-5C2D91?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/R3F-white?style=for-the-badge&logo=react"/>
+
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-</div>
-
-<br/>
 
 ---
 
-### &nbsp;Graphics & Shaders
+## What I enjoy building
 
-<div align="center">
+✨ Interactive landing pages
 
-| | |
-|:---:|:---|
-| `GLSL` | Fragment & vertex shaders, raymarching, SDF geometry, noise |
-| `HLSL` | Learning alongside GLSL — DirectX / WGSL pipeline |
-| `CUDA` | GPU parallel computing, kernel programming |
-| `Three.js` | Custom `ShaderMaterial`, post-processing, WebGL |
+🎞️ Motion-driven interfaces
 
-</div>
+🌊 Scroll storytelling
 
-<br/>
+🎨 Shader experiments
 
----
+⚡ Real-time graphics
 
-### &nbsp;Tools
+🧩 Creative coding experiments
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,webstorm&theme=dark&perline=4" />
-</div>
-
-<br/>
+🚀 Portfolio experiences
 
 ---
 
-### &nbsp;Core CS
+## Currently Exploring
 
-<div align="center">
+- Graphics Programming
+- GPU Rendering
+- GLSL & HLSL
+- CUDA
+- Raymarching
+- SDFs
+- Noise Functions
+- WebGPU
+- Rendering Pipelines
 
-`Data Structures & Algorithms` &nbsp; `OOP` &nbsp; `Time & Space Complexity`
-`Operating Systems` &nbsp; `Computer Networks`
+---
 
-</div>
+## Philosophy
 
-<br/>
+> Great interfaces don't just work—they feel alive.
+
+I love building experiences where motion has purpose, interactions feel tactile, and visuals support storytelling rather than distract from it.
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" />
+### Let's build something beautiful.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer"/>
 
 </div>
