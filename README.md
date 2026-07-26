@@ -64,7 +64,7 @@ Outside of graphics, I build performant frontends with animation-heavy interacti
 
 - Graphics Programming
 - GPU Rendering
-- GLSL & HLSL
+- GLSL, HLSL and TSL
 - CUDA
 - Raymarching
 - SDFs
