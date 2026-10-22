@@ -8,7 +8,7 @@
 
 Building interactive experiences where **design, motion and code** meet.
 
-*"Art > Engineering."*
+*"Art >> Engineering."*
 
 </div>
 
